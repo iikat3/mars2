@@ -1,0 +1,6 @@
+owner=541341198539816980
+prefix=2
+game=??- Mars , 2play | 2play
+stayinchannel=true
+songinstatus=false
+token=NTU5MzQ5MTU5NDg0ODUwMTc2.D35qSQ.2ruOhZU9yBzw-VF8bbg8nGvZ1Ys
